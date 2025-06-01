@@ -3,8 +3,10 @@
   "WorkspaceRootPath": "D:\\1KHAI\\2 semester\\.Net\\03-o-a-golovkina\\MyDomain.WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{487BD89A-9B8D-4722-B840-1457D095E768}|MyDomain.WebApi.csproj|d:\\1khai\\2 semester\\.net\\03-o-a-golovkina\\mydomain.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{487BD89A-9B8D-4722-B840-1457D095E768}|MyDomain.WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8227877-BD6B-41C1-862E-FEA5872D137A}|..\\TestsProject\\TestsProject.csproj|d:\\1khai\\2 semester\\.net\\03-o-a-golovkina\\testsproject\\detailsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8227877-BD6B-41C1-862E-FEA5872D137A}|..\\TestsProject\\TestsProject.csproj|d:\\1khai\\2 semester\\.net\\03-o-a-golovkina\\testsproject\\testsproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,8 +15,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 291,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 141,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,21 +32,34 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestsProject",
+              "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\03-o-a-golovkina\\TestsProject\\TestsProject.csproj",
+              "RelativeDocumentMoniker": "..\\TestsProject\\TestsProject.csproj",
+              "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\03-o-a-golovkina\\TestsProject\\TestsProject.csproj",
+              "RelativeToolTip": "..\\TestsProject\\TestsProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T10:17:09.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\03-o-a-golovkina\\MyDomain.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\03-o-a-golovkina\\MyDomain.WebApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Title": "DetailsApiTests.cs",
+              "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\03-o-a-golovkina\\TestsProject\\DetailsApiTests.cs",
+              "RelativeDocumentMoniker": "..\\TestsProject\\DetailsApiTests.cs",
+              "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\03-o-a-golovkina\\TestsProject\\DetailsApiTests.cs*",
+              "RelativeToolTip": "..\\TestsProject\\DetailsApiTests.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T07:53:06.624Z",
+              "WhenOpened": "2025-06-01T10:14:47.958Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 177,
+          "DockedWidth": 327,
           "SelectedChildIndex": -1,
           "Children": [
             {
