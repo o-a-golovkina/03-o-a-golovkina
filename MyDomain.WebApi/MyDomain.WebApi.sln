@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDomain.WebApi", "MyDomain.WebApi.csproj", "{487BD89A-9B8D-4722-B840-1457D095E768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "..\..\02-o-a-golovkina\Solution04\DataAccessLayer\DataAccessLayer.csproj", "{FB123096-07C1-1B29-C0AC-B9F64381A6FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487BD89A-9B8D-4722-B840-1457D095E768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487BD89A-9B8D-4722-B840-1457D095E768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487BD89A-9B8D-4722-B840-1457D095E768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487BD89A-9B8D-4722-B840-1457D095E768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB123096-07C1-1B29-C0AC-B9F64381A6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB123096-07C1-1B29-C0AC-B9F64381A6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB123096-07C1-1B29-C0AC-B9F64381A6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB123096-07C1-1B29-C0AC-B9F64381A6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC8FAEF6-ECD2-496E-BF8E-CA5C2D69F843}
+	EndGlobalSection
+EndGlobal
